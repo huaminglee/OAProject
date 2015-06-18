@@ -1,0 +1,7 @@
+1、源码在Code 下面，用VS2010打开
+2、数据库在DB下面，mdf 文件时sqlserver2012版本的，如果附加失败，请用脚本创建
+3、数据库连接字符，请用doc/数据库配置  软件配置 
+<!-- 连接字符串 -->
+<add key="SQLConnectionString" 
+
+4、doc下的 AccessDatabaseEngine.exe 需要安装，用于导入使用
