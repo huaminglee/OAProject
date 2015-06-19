@@ -85,6 +85,7 @@ public partial class _Default : System.Web.UI.Page
         ZWL.BLL.ERPUser MyUser = new ZWL.BLL.ERPUser();
         MyUser.UserLogin(TxtUserName.Text.Trim(), ZWL.Common.DEncrypt.DESEncrypt.Encrypt(TxtUserPwd.Text), 
             IFPop,ConfigurationManager.AppSettings["OALogin"].ToString().Trim(),"Main/Main.aspx");
+        //Response.Write(ZWL.Common.DEncrypt.DESEncrypt.Encrypt("123456"));
     }
 
     //获得网卡序列号----MAc地址

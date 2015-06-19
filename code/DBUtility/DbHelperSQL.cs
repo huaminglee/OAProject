@@ -45,6 +45,7 @@ namespace ZWL.DBUtility
         } 
         //定义连接字符串。
         public static string ConnectionString = DecryptDBStr(ConfigurationManager.AppSettings["SQLConnectionString"], "zhangweilong");
+        
         protected static SqlConnection Connection;
         //定义数据库的打开和关闭方法
         protected static void Open()

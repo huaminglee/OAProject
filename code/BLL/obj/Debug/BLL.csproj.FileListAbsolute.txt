@@ -55,3 +55,14 @@ C:\Users\sulongfeng\Desktop\OASource\OAProject\code\BLL\bin\Debug\DBUtility.pdb
 C:\Users\sulongfeng\Desktop\OASource\OAProject\code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\sulongfeng\Desktop\OASource\OAProject\code\BLL\obj\Debug\BLL.dll
 C:\Users\sulongfeng\Desktop\OASource\OAProject\code\BLL\obj\Debug\BLL.pdb
+E:\gitData\OAProject\code\BLL\bin\Debug\BLL.dll
+E:\gitData\OAProject\code\BLL\bin\Debug\BLL.pdb
+E:\gitData\OAProject\code\BLL\bin\Debug\Common.dll
+E:\gitData\OAProject\code\BLL\bin\Debug\DBUtility.dll
+E:\gitData\OAProject\code\BLL\bin\Debug\Excel.dll
+E:\gitData\OAProject\code\BLL\bin\Debug\COM.Excel.dll
+E:\gitData\OAProject\code\BLL\bin\Debug\Common.pdb
+E:\gitData\OAProject\code\BLL\bin\Debug\DBUtility.pdb
+E:\gitData\OAProject\code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\gitData\OAProject\code\BLL\obj\Debug\BLL.dll
+E:\gitData\OAProject\code\BLL\obj\Debug\BLL.pdb

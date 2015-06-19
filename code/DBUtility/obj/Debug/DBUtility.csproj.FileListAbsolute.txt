@@ -16,3 +16,7 @@ C:\Users\sulongfeng\Desktop\OASource\OAProject\code\DBUtility\bin\Debug\DBUtilit
 C:\Users\sulongfeng\Desktop\OASource\OAProject\code\DBUtility\bin\Debug\DBUtility.pdb
 C:\Users\sulongfeng\Desktop\OASource\OAProject\code\DBUtility\obj\Debug\DBUtility.dll
 C:\Users\sulongfeng\Desktop\OASource\OAProject\code\DBUtility\obj\Debug\DBUtility.pdb
+E:\gitData\OAProject\code\DBUtility\bin\Debug\DBUtility.dll
+E:\gitData\OAProject\code\DBUtility\bin\Debug\DBUtility.pdb
+E:\gitData\OAProject\code\DBUtility\obj\Debug\DBUtility.dll
+E:\gitData\OAProject\code\DBUtility\obj\Debug\DBUtility.pdb
